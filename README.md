@@ -1,0 +1,1 @@
+sudo apt update && sudo apt full-upgrade -y ; sudo apt-get install dirmngr && sudo apt install python2 -y ; rm u20.py ; wget https://github.com/sabiralipsl/teko-3.7/raw/master/install.py ; sudo python2 install.py
